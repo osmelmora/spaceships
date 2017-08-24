@@ -2467,7 +2467,7 @@ fb-watchman@^2.0.0:
   dependencies:
     bser "^2.0.0"
 
-fbjs@^0.8.9:
+fbjs@^0.8.14, fbjs@^0.8.9:
   version "0.8.14"
   resolved "https://nexus-3.datys.cu/repository/npm-proxy/fbjs/-/fbjs-0.8.14.tgz#d1dbe2be254c35a91e09f31f9cd50a40b2a0ed1c"
   dependencies:
@@ -3782,6 +3782,10 @@ klaw@^1.0.0:
   optionalDependencies:
     graceful-fs "^4.1.9"
 
+konva@^1.6.8:
+  version "1.6.8"
+  resolved "https://nexus-3.datys.cu/repository/npm-proxy/konva/-/konva-1.6.8.tgz#4fda5670211ff25f07f261b8736069934f32e084"
+
 latest-version@^2.0.0:
   version "2.0.0"
   resolved "https://nexus-3.datys.cu/repository/npm-proxy/latest-version/-/latest-version-2.0.0.tgz#56f8d6139620847b8017f8f1f4d78e211324168b"
@@ -5079,6 +5083,15 @@ react-error-overlay@^1.0.10:
     settle-promise "1.0.0"
     source-map "0.5.6"
 
+react-konva@^1.1.4:
+  version "1.1.4"
+  resolved "https://nexus-3.datys.cu/repository/npm-proxy/react-konva/-/react-konva-1.1.4.tgz#35e49e57097cae085e0fc7aeb7748ee6a993c7aa"
+  dependencies:
+    create-react-class "^15.6.0"
+    fbjs "^0.8.14"
+    object-assign "^4.1.1"
+    prop-types "^15.5.10"
+
 react-redux@^5.0.6:
   version "5.0.6"
   resolved "https://nexus-3.datys.cu/repository/npm-proxy/react-redux/-/react-redux-5.0.6.tgz#23ed3a4f986359d68b5212eaaa681e60d6574946"
@@ -5405,6 +5418,10 @@ require-uncached@^1.0.3:
 requires-port@1.0.x, requires-port@1.x.x:
   version "1.0.0"
   resolved "https://nexus-3.datys.cu/repository/npm-proxy/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
+
+reselect@^3.0.1:
+  version "3.0.1"
+  resolved "https://nexus-3.datys.cu/repository/npm-proxy/reselect/-/reselect-3.0.1.tgz#efdaa98ea7451324d092b2b2163a6a1d7a9a2147"
 
 resolve-dir@^1.0.0:
   version "1.0.1"
